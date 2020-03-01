@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Project Fliar</string>
+    <string name="scan_image_for_event_details">Scan Image for Event Details</string>
+    <string name="todo">TODO</string>
+    <string name="event_details_will_be_displayed_here">Event details will be displayed here</string>
+</resources>
