@@ -14,3 +14,8 @@ We used Android Studio to build the app since it provided the necessary tools to
 
 # Screenshots
 
+![Mainscreen](https://user-images.githubusercontent.com/15605897/75635315-e367b480-5bc9-11ea-918c-87a81ae24ab4.jpg)
+![Mainscreen2](https://user-images.githubusercontent.com/15605897/75635373-5b35df00-5bca-11ea-9d11-d5462eff2270.jpg)
+![Mainscreen3](https://user-images.githubusercontent.com/15605897/75635374-5e30cf80-5bca-11ea-94e3-be4ab5b0ef06.jpg)
+![Mainscreen4](https://user-images.githubusercontent.com/15605897/75635332-11e58f80-5bca-11ea-8c9a-e9dabfabe0b2.jpg)
+![Mainscreen5](https://user-images.githubusercontent.com/15605897/75635343-1e69e800-5bca-11ea-8e04-648ebad0d2eb.jpg)
